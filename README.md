@@ -30,7 +30,7 @@
 
 ---
 
-## 📊 **ICT ANALYSIS SUITE**
+## 📊 **ANALYSIS SUITE**
 
 ### 4. **Market Structure Detection**
 - Higher Highs (HH) and Higher Lows (HL) identification
@@ -102,8 +102,8 @@
 ## 🎯 **SIGNAL GENERATION SYSTEM**
 
 ### 14. **3-Tier Signal Classification**
-- **Tier 0 - UNICORN:** 5-star, OB+FVG confluence, premium setups
-- **Tier 1 - A3-ELITE:** 3-4 star, high-confidence ICT signals
+- **Tier 0 - UNICORN:** 5-star, OB+FVG confluence, Premium setups
+- **Tier 1 - A3-ELITE:** 3-4 star, high-confidence signals
 - **Tier 2 - ALTERNATIVE:** 1-2 star, lower confidence alerts
 
 ### 15. **Confidence Scoring (1-5 Stars)**
@@ -269,7 +269,7 @@
 ### 28. **Upload & Analyze**
 - Drag & drop chart screenshots
 - PNG, JPG, JPEG support (max 10MB)
-- AI-powered ICT analysis
+- AI-powered analysis
 - **Analysis Includes:**
   - Market structure assessment
   - Trend identification
@@ -364,7 +364,7 @@
 
 ### 36. **Dashboard Layout**
 - Sidebar: Watchlist, Killzones, Bias, AMD, Alerts
-- Main area: Live charts, ICT analysis, Reports
+- Main area: Live charts, AI analysis, Reports
 - Tab navigation: 11 powerful tabs
 - Collapsible panels
 - Drag & drop (chart upload)
@@ -416,7 +416,6 @@
 ## 🎯 **USE CASES**
 
 ### Who Is This For?
-- ✅ ICT Traders
 - ✅ Smart Money Concept practitioners
 - ✅ Intraday traders
 - ✅ Swing traders
@@ -455,7 +454,6 @@
 
 ### Platform Capabilities:
 - **60+ instruments** analyzed
-- **10+ ICT concepts** implemented
 - **3-tier signal** classification
 - **5-star confidence** system
 - **11 powerful tabs**
@@ -489,7 +487,7 @@
 1. Open the platform in your browser
 2. Select a trading pair from dropdown
 3. View live TradingView chart
-4. Review ICT analysis in dashboard
+4. Review analysis in dashboard
 5. Check signals tab for setups
 6. Use screener to find opportunities across markets
 7. Set up Telegram for mobile alerts (optional)
@@ -552,4 +550,4 @@
 
 ---
 
-*Built for traders, by traders. The most comprehensive ICT analysis platform available.*
+*Built for traders, by traders. The most comprehensive AI analysis platform available.*
