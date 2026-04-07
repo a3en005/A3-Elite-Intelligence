@@ -21,8 +21,8 @@
 - Dark theme integration
 
 ### 3. **Real-Time Price Engine**
-- **Live Forex Pricing:** Frankfurter API (ECB rates)
-- **Live Crypto Pricing:** CoinGecko API with 24h change tracking
+- **Live Forex Pricing:** OANDA API
+- **Live Crypto Pricing:** Binance API with 24h change tracking
 - **Cross-Pair Calculation:** Automatic calculation of crosses (EUR/JPY from EUR/USD × USD/JPY)
 - **Live Indicator:** Green ● shows real-time data, no ● shows demo prices
 - **60-Second Auto-Refresh:** Continuous price updates
